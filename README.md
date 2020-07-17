@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <p><a href="https://instagram.com/ademolguner_1903/" rel="nofollow"><img src="https://user-images.githubusercontent.com/28896352/87781617-aaa73f80-c839-11ea-945f-f447b263fae2.png" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/ademolguner-follow%20on%20instagram-blue?style=for-the-badge&amp;logo=instagram" style="max-width:100%;"></a></p>
  
  
- 
+  <p><a href="https://medium.com/@ademolguner/" rel="nofollow"><img src="https://user-images.githubusercontent.com/28896352/87782698-b09e2000-c83b-11ea-85c6-7e051f4464e0.png" alt="Medium Badge" data-canonical-src="https://img.shields.io/badge/ademolguner-follow%20on%medium-blue?style=for-the-badge&amp;logo=medium" style="max-width:100%;"></a></p>
  
 
 <h2><a id="user-content-ask-me-about-" class="anchor" aria-hidden="true" href="#ask-me-about-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Ask me about <g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji></h2>
