@@ -1,6 +1,6 @@
 ### Here is What I'am working on 👋
 
- I like to follow different technologies. I am curious. I am someone who has adopted the principle of self-renewal and continuous improvement.
+ I like to follow different technologies. I am curious about software development. I am someone who has adopted the principle of self-renewal and continuous improvement.
 
 Here are some ideas to get you started:
  
