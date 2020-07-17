@@ -1,7 +1,6 @@
-### Hi there 👋
+### Here is What I'am working on 👋
 
-<!--
-**ademolguner/ademolguner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I like to follow different technologies. I am curious. I am someone who has adopted the principle of self-renewal and continuous improvement.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://medium.com/@ademolguner
 - 😄 Pronouns: ...  He/Him
 - ⚡ Fun fact: ...
--->
