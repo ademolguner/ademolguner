@@ -4,6 +4,8 @@
 
 Here are some ideas to get you started:
 
+https://avatars3.githubusercontent.com/u/28896352?s=60&v=4
+
 - 🔭 I’m currently working on Sompo Sigorta
 - 🌱 I’m currently learning ... HealthChecks
 - 👯 I’m looking to collaborate on ... .Net Core
