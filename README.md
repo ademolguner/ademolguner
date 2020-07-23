@@ -50,7 +50,9 @@ Here are some ideas to get you started:
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/eae758bdf9318bf106182e87ad4f948b0dc0ca68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d69632f6a736f6e3f636f6c6f723d696e666f726d6174696f6e616c266c6162656c3d76697369746f72253230636f756e742671756572793d76616c75652675726c3d68747470732533412532462532466170692e636f756e746170692e78797a2532466869742532466f7268616e6f7a6b657263696e2e6f7268616e6f7a6b657263696e253246726561646d65"><img src="https://camo.githubusercontent.com/eae758bdf9318bf106182e87ad4f948b0dc0ca68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f64796e616d69632f6a736f6e3f636f6c6f723d696e666f726d6174696f6e616c266c6162656c3d76697369746f72253230636f756e742671756572793d76616c75652675726c3d68747470732533412532462532466170692e636f756e746170692e78797a2532466869742532466f7268616e6f7a6b657263696e2e6f7268616e6f7a6b657263696e253246726561646d65" alt="visitors" data-canonical-src="https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fademolguner.ademolguner%2Freadme" style="max-width:100%;"></a></p>
 
-
+<p>
+<a target="_blank" rel="noopener noreferrer" href="https://profile-summary-for-github.com/user/ademolguner" >Github Profile Summary</a>
+</p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c7ea1b496cd270c36c199294fa6ece0c86e506e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f7268616e6f7a6b657263696e2673686f775f69636f6e733d74727565"><img src="https://github-readme-stats.vercel.app/api?username=ademolguner&amp;show_icons=true"
     alt="Adem Olguner's GitHub Stats"
@@ -58,6 +60,4 @@ Here are some ideas to get you started:
     style="max-width:100%;"></a></p>
     
     
-    <p>
-    <a target="_blank" rel="noopener noreferrer" href="https://profile-summary-for-github.com/user/ademolguner" >Github Profile Summary</a>
-    </p>
+   
