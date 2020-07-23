@@ -52,7 +52,8 @@ Here are some ideas to get you started:
 
  <p> 
  <h2 class="unchanged rich-diff-level-one">Github Profile Summary ‰</h2>
-  <img src="https://profile-summary-for-github.com/favicon.png" alt="Medium Badge" data-canonical-src="https://profile-summary-for-github.com/favicon.png" style="max-width:50px;"> 
+ <a target="_blank" href="https://profile-summary-for-github.com/user/ademolguner">
+  <img src="https://profile-summary-for-github.com/favicon.png" alt="Medium Badge" data-canonical-src="https://profile-summary-for-github.com/favicon.png" style="max-width:50px;"></a> 
 </p>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9c7ea1b496cd270c36c199294fa6ece0c86e506e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6f7268616e6f7a6b657263696e2673686f775f69636f6e733d74727565"><img src="https://github-readme-stats.vercel.app/api?username=ademolguner&amp;show_icons=true"
