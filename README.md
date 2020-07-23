@@ -59,5 +59,5 @@ Here are some ideas to get you started:
     
     
     <p>
-    <iframe src="https://profile-summary-for-github.com/user/ademolguner" title="Github Profile Summary"></iframe>
+    <a target="_blank" rel="noopener noreferrer" href="https://profile-summary-for-github.com/user/ademolguner" >Github Profile Summary</a>
     </p>
