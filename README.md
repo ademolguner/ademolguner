@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
  
 
-- 🔭 I’m currently working on Sompo Sigorta
-- 🌱 I’m currently learning ... HealthChecks
+- 🔭 I’m currently working on EnerjiSA Uretim (Neyasis Technology)
+- 🌱 I’m currently learning ... Saga Pattern
 - 👯 I’m looking to collaborate on ... .Net Core
 - 🤔 I’m looking for help with ... Asp.Net Core
 - 💬 Ask me about ... Anythink
